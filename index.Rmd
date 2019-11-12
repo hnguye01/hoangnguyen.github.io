@@ -1,15 +1,8 @@
 ---
 title: "My Github Page"
-<<<<<<< HEAD
-author: "Huy Hoang Nguyen -  htttp://www.hoangnguyen.us"
-output: html_document
----
 
-#Test
-=======
 author: "Huy Hoang Nguyen"
 output: html_document
+
 ---
-<hoangnguyen.us> <http://www.hoangnguyen.us>
-a
->>>>>>> 96d9111e571bb45f0bff88dbfb5fbe3637c66d8c
+aaa
