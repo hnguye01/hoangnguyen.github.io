@@ -3,6 +3,5 @@ title: "My Github Page"
 
 author: "Huy Hoang Nguyen"
 output: html_document
-
 ---
-aaa
+[hoangnguyen.us](http://www.hoangnguyen.us)
