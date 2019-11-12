@@ -1,11 +1,7 @@
 ---
-title: "Simple Website"
+title: "My Github Page"
 author: "Huy Hoang Nguyen"
-date: "11/11/2019"
 output: html_document
 ---
-
-# The Simple Awesome Website
-## Test 1
-### Test 2
-Then now Test now
+<hoangnguyen.us> <http://www.hoangnguyen.us>
+a
